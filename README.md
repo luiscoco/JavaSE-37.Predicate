@@ -6,7 +6,7 @@ It represents a predicate, which is a boolean-valued function that takes an argu
 
 Here's the basic structure of the Predicate interface:
 
-java```
+```java
 @FunctionalInterface
 public interface Predicate<T> {
     boolean test(T t);
