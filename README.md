@@ -1,5 +1,7 @@
 # JavaSE-Predicate
 
+See the Udemy course: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-java-se-11
+
 In Java, Predicate is a functional interface from the java.util.function package. 
 
 It represents a predicate, which is a boolean-valued function that takes an argument and returns true or false.
